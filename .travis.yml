@@ -1,3 +1,4 @@
+# Faircoin2 (test1)
 # errata:
 # - A travis bug causes caches to trample eachother when using the same
 #   compiler key (which we don't use anyway). This is worked around for now by
